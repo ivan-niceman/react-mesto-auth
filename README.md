@@ -32,4 +32,4 @@
 
 **Ссылка на сайт**
 
-[react-mesto-auth](https://github.com/ivan-niceman/react-mesto-auth)
+[react-mesto-auth](https://ivan-niceman.github.io/react-mesto-auth/)
